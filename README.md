@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/WfOXhY9.gif" />
+  <img width="328" height="245" alt="rei-ayanami-evangelion" src="https://github.com/user-attachments/assets/517ec875-ab57-47de-867b-5c79837ae521" />
 </p>
 
 ### **About:**
