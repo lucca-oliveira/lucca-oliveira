@@ -5,7 +5,7 @@
 ### **About:**
 
 ```diff
-@@Rei Ayanami IRL - webdev and red team@@
+@ webdev & red team @
 
 + sometimes I build things
 - sometimes I break things
